@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "GlaDOS",
   "author": "Proot",
-  "website": "",
+  "website": "https://google.com/",
   "model": "GlaDOS.tflite",
   "trained_languages": ["en"],
   "version": 2,
